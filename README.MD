@@ -1,0 +1,1 @@
+### This repository is a curated collection of machine learning tasks and mini-projects that I’ve implemented using various models, techniques, and datasets. Each task focuses on solving a specific problem or exploring a concept in machine learning.
