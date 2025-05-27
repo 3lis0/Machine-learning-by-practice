@@ -12,7 +12,17 @@ The goal is to document my practical ML learning journey and build a foundation 
 ├── README.md
 ├── Multi Class Obesity Risk/ # Classification problem
 │   ├── Multi_Class_Obesity_Risk.ipynb
-│   ├── README.md 
+│   ├── README.md
+├── Wikipedia Biography Clustering/ # Clustering problem
+│   ├── README.md
+|   ├── main.py                      # Main script to run the entire pipeline
+|   ├── requirements.txt             # List of required Python libraries
+|   ├── app/
+|   ├── cluster_models/
+|   ├── data/
+|   ├── data_preprocessing/
+|   ├── model_evaluation/
+|   ├── visualization/
 │ Continuously updated...                      
 ```
 ---
@@ -36,7 +46,7 @@ The goal is to document my practical ML learning journey and build a foundation 
 | Task No. | Title | Description| Domain|
 |----------|-------|------------|-------|
 | 1        | Multi Class Obesity Risk| Obesity risk prediction using multi-class classification | classification |
-| 2        |   |   |    |
+| 2        | Wikipedia Biography Clustering  |  unsupervised learning techniques to cluster documents from the People Wikipedia Dataset  |  clustering  |
 ---
 
 ## Tech Stack
