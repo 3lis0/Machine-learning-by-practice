@@ -23,6 +23,8 @@ The goal is to document my practical ML learning journey and build a foundation 
 |   ├── data_preprocessing/
 |   ├── model_evaluation/
 |   ├── visualization/
+├── Credit score classification/ # Classification problem
+│   ├── credit_score_classification.ipynb
 │ Continuously updated...                      
 ```
 ---
@@ -46,7 +48,8 @@ The goal is to document my practical ML learning journey and build a foundation 
 | Task No. | Title | Description| Domain|
 |----------|-------|------------|-------|
 | 1        | Multi Class Obesity Risk| Obesity risk prediction using multi-class classification | classification |
-| 2        | Wikipedia Biography Clustering  |  unsupervised learning techniques to cluster documents from the People Wikipedia Dataset  |  clustering  |
+| 2        | Wikipedia Biography Clustering  |  Unsupervised learning techniques to cluster documents from the People Wikipedia Dataset  |  clustering  |
+| 3        | Credit Score Classification  |  Create a tool that can help financial institutions assess the creditworthiness of their clients efficiently and reliably.  |  classification  |
 ---
 
 ## Tech Stack
