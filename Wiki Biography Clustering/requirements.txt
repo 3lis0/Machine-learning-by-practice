@@ -1,0 +1,20 @@
+# Core Libraries
+numpy==1.23.5
+pandas==1.5.3
+scipy==1.10.1
+
+# Machine Learning & Clustering
+scikit-learn==1.2.2  # Includes TfidfVectorizer for feature Extraction
+
+# NLP & Text Processing
+spacy==3.5.3
+
+# Data Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Model Saving & Loading
+joblib==1.2.0
+
+# Deployment (Streamlit)
+streamlit==1.22.0
